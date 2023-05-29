@@ -26,7 +26,7 @@ steps:
     SonarCloud: 'SonarCloud'
     organization: 'AgileProject'
     scannerMode: 'MSBuild'
-    projectKey: 'AgileProject'
+    projectKey: 'nabendu'
     projectName: 'AgileProject'
 
 - task: VSBuild@1
